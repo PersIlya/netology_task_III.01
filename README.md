@@ -44,7 +44,7 @@
 >по пунктам 10-11
 ![localImage](./screen_III.01.10-11.png) 
 
-
+![localImage](./Yes.png)
 
 ## Необязательная часть
 
